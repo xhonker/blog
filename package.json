@@ -1,0 +1,15 @@
+{
+  "name": "xhonker.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xhonker/xhonker.github.io.git",
+  "author": "wuyuanqiang <wuyuanqiang.lanyife.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.9.0"
+  },
+  "scripts": {
+    "doc:dev":"vuepress dev docs",
+    "doc:build":"vuepress build docs"
+  }
+}
