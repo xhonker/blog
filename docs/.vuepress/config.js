@@ -2,6 +2,7 @@ module.exports = {
   title: 'Quicker',
   description: 'Just playing around',
   serviceWorker: true,
+  dest:'doc',
   themeConfig: {
     docsDir:'docs',
     nav: [
